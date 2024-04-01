@@ -5,6 +5,9 @@
     background-size: cover;
     height: 600px;
 }
+.container-fluid{
+    overflow-x: hidden;
+}
 .button2{
     height: 35px;
     margin-left: 1140px;
